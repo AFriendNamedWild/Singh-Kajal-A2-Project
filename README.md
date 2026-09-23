@@ -1,2 +1,2 @@
 # Singh-Kajal-A2-Project
-Assignment 2 Circus tent Repo
+Assignment 2 Circus Tent Repo
